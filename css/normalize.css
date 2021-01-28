@@ -1,0 +1,9 @@
+body{
+  max-height: 1200px;
+  background-image: url(https://cdn.wallpapersafari.com/89/47/ZpKTcG.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+form{
+  color: white;
+}
